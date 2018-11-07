@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="post_code" label="Post code" language="en" table="x_267446_fixed_lin_company">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>post_code</element>
+            <help/>
+            <hint/>
+            <label>Post code</label>
+            <language>en</language>
+            <name>x_267446_fixed_lin_company</name>
+            <plural>Post codes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-07 14:17:01</sys_created_on>
+            <sys_id>0b3a233adb612300b82ba455ca96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Post code</sys_name>
+            <sys_package display_value="Fixed_Line_Incident" source="x_267446_fixed_lin">e90457badb212300b82ba455ca96194a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Fixed_Line_Incident">e90457badb212300b82ba455ca96194a</sys_scope>
+            <sys_update_name>sys_documentation_x_267446_fixed_lin_company_post_code_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-07 14:17:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

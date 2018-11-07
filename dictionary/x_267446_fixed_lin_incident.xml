@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Incident" max_length="40" name="x_267446_fixed_lin_incident" type="collection">
+        <element label="Company guid" max_length="40" name="company_guid" type="string"/>
+        <element choice="1" display="true" label="Company name" max_length="40" name="company_name" type="string">
+            <choice/>
+        </element>
+        <element label="Incident Summary" mandatory="true" max_length="128" name="incident_summary" type="string"/>
+        <element choice="3" label="Incident type" mandatory="true" max_length="40" name="incident_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="FLT" value="FLT"/>
+                <element inactive_on_update="false" label="NET" value="NET"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

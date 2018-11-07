@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="FL_Incident">b4ac577edb212300b82ba455ca9619d0</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Incidents</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_267446_fixed_lin_incident</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_267446_fixed_lin.incident_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-07 13:17:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>74acd7fedb212300b82ba455ca9619bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incidents</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Fixed_Line_Incident" source="x_267446_fixed_lin">e90457badb212300b82ba455ca96194a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fixed_Line_Incident">e90457badb212300b82ba455ca96194a</sys_scope>
+        <sys_update_name>sys_app_module_74acd7fedb212300b82ba455ca9619bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-07 13:17:37</sys_updated_on>
+        <timeline_page/>
+        <title>Incidents</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
